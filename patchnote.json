@@ -1,7 +1,7 @@
 {
-  "title": "📋 Patch Note - Destinéee",
-  "date": "13/12/2025",
-  "content": "🚀 Nouvelle mise à jour sur Destinéee ! ✨\n**Nouveautés**\n✨ Ajout du patchnote sur le launcher via github pour rester informé des dernières mises à jour !\n\n**Améliorations**\n⚡ Mise à jour de l'expérience de jeu pour une meilleure immersion !\n\nMerci de votre fidélité et de votre patience ! Nous sommes ravis de vous proposer ces mises à jour pour améliorer votre expérience sur Destinéee ! 🙏",
-  "color": 5793266,
-  "timestamp": "2025-12-13T22:32:50.960Z"
+    "date":  "14/12/2025",
+    "title":  " Patch Note - Destinéee",
+    "timestamp":  "2025-12-14T20:00:00.000Z",
+    "content":  "�� Nouvelles mises à jour sur Destinéee ! ✨\n\nNous avons mis à jour plusieurs scripts pour améliorer votre expérience de jeu :\n cd_easytime : gestion du temps et de la météo améliorée\n luxu_admin : menu admin mis à jour\n Desti-Construct : améliorations de la construction\n SPY_Garage : système de garage post-apo amélioré\n\n Plus de bugs résolus pour une expérience plus fluide !\n\nMerci de jouer sur Destinéee ! ",
+    "color":  5793266
 }
