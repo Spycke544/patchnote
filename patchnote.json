@@ -1,7 +1,7 @@
 {
-    "title": "📋 Patch Note - Destinéee",
-    "date": "14/12/2025",
-    "content": "🌟 Nouvelles mises à jour sur Destinéee ! ✨\n\nNous avons mis à jour plusieurs scripts pour améliorer votre expérience de jeu :\n\n🔧 cd_easytime : gestion du temps et de la météo améliorée\n🔧 luxu_admin : menu admin mis à jour\n🔧 Desti-Construct : améliorations de la construction\n🔧 SPY_Garage : système de garage post-apo amélioré\n\n🔨 Plus de bugs résolus pour une expérience plus fluide !\n\nMerci de jouer sur Destinéee ! 🙏",
-    "color": 5793266,
-    "timestamp": "2025-12-14T20:00:00.000Z"
+  "title": "📋 Patch Note - Destinéee",
+  "date": "15/12/2025",
+  "content": "🌟 Nouveautés sur Destinéee ! ✨\n- Système de plantation complet - Thème Post-Apocalyptique (par Spycke54) vcerulean\n- Nouvelles ressources : Client, html, Server\n\n🔧 Mises à jour :\n- SPY_Plant : améliorations du système de plantation\n- SPY_Quest : mise à jour du système de création et gestion de quêtes avec menu admin\n\n🗑️ Retraits :\n- Ressources supprimées : SPY_Plant, Client, html, Server (note : ces ressources ont été ajoutées puis supprimées, nous ne considérons que les changements définitifs)\n\nMerci de jouer sur Destinéee ! 🙏",
+  "color": 5793266,
+  "timestamp": "2025-12-15T19:00:06.492Z"
 }
