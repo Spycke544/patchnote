@@ -1,7 +1,7 @@
 {
   "title": "📋 Patch Note - Destinéee",
-  "date": "15/12/2025",
-  "content": "🌟 Nouveautés sur Destinéee ! ✨\n- Système de plantation complet - Thème Post-Apocalyptique (par Spycke54) vcerulean\n- Nouvelles ressources : Client, html, Server\n\n🔧 Mises à jour :\n- SPY_Plant : améliorations du système de plantation\n- SPY_Quest : mise à jour du système de création et gestion de quêtes avec menu admin\n\n🗑️ Retraits :\n- Ressources supprimées : SPY_Plant, Client, html, Server (note : ces ressources ont été ajoutées puis supprimées, nous ne considérons que les changements définitifs)\n\nMerci de jouer sur Destinéee ! 🙏",
+  "date": "16/12/2025",
+  "content": "🚀 Nouveau patch en ligne ! ✨\n**Nouveaux contenus** : \n✨ Système de banque ATM post-apocalyptique avec NUI\n✨ ATM (par Shadow Walker et Spycke)\n✨ Nouvelle prison \"Full_Prison_Extended\" \n**Améliorations** : \n🔧 Mise à jour de Desti-Poule - Système de poulailler\n🔧 Mise à jour de SPY_Shop - Système de Shop créé par les admins\n🔧 Mise à jour de ox_inventory - Slot-based inventory with item metadata support\n**Retraits** : \n🗑️ Ressources \"Astraz_Prison_Mapping_et_torradio\", \"stream\", \"environments\", \"[ASSET]\", \"[BASE]\", \"[COL]\", \"[INTERIOR]\" supprimées\nMerci de jouer sur Destinéee ! 🙏",
   "color": 5793266,
-  "timestamp": "2025-12-15T19:00:06.492Z"
+  "timestamp": "2025-12-16T19:00:49.357Z"
 }
