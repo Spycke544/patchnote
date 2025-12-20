@@ -1,7 +1,7 @@
 {
   "title": "📋 Patch Note - Destinéee",
-  "date": "19/12/2025",
-  "content": "🚀 Une nouvelle mise à jour arrive sur Destinéee ! ✨\n**Nouveautés** :\n✨ Système de carburant complet (SPY_Fuel) avec raffinage, pompes et consommation\n✨ Ressources client, html, server et sounds ajoutées\n\n**Mises à jour** :\n🔧 ox_inventory pour un inventaire plus fluide\n🔧 Desti-Construct pour de nouvelles constructions\n🔧 esx_piphud pour un HUD joueur amélioré\n🔧 Desti-Communication pour un système de communication radio avancé\n\n**Retraits** :\n🗑️ Ressources ox_fuel, data et locales supprimées\n\nMerci de jouer sur Destinéee ! Nous vous remercions pour votre fidélité et votre patience. Nous sommes ravis de vous apporter ces nouvelles fonctionnalités pour améliorer votre expérience de jeu. 🙏",
+  "date": "20/12/2025",
+  "content": "🔥 Une nouvelle mise à jour est arrivée sur Destinéee ! 🔥\n✨ Les systèmes de construction et de communication ont été améliorés pour une expérience de jeu plus immersive.\n🔧 Le système de garage SPY_Garage a été mis à jour pour plus de confort.\n🐛 Des bugs ont été corrigés pour une expérience de jeu plus fluide.\n🗑️ Certaines ressources ont été supprimées pour alléger le serveur.\n⚡ Le système médical SPY_Medic a été amélioré pour plus de réalisme.\n\nMerci de jouer sur Destinéee ! Votre fidélité est notre plus grande récompense ! 😊",
   "color": 5793266,
-  "timestamp": "2025-12-19T19:00:17.329Z"
+  "timestamp": "2025-12-20T19:00:53.807Z"
 }
