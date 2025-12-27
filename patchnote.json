@@ -1,7 +1,7 @@
 {
   "title": "📋 Patch Note - Destinéee",
-  "date": "26/12/2025",
-  "content": "🔥 Une nouvelle mise à jour est arrivée sur Destinéee ! 🌟\n✨ Nous vous présentons une nouvelle ressource : Desti-Construct vcerulean, ainsi que des ressources html, assets et sql !\n🔧 Des mises à jour ont été apportées à Desti-Construct, Desti-Pause, Desti-Generator, Desti-NuiCrafting et SPY_Medic pour améliorer votre expérience de jeu.\n🐛 Les joueurs pourront désormais profiter d'un système médical complet type DayZ avec SPY_Medic, incluant température, maladies, groupe sanguin, fractures et engelures.\n🗑️ La ressource Desti-NuiClanSystem a été supprimée.\n⚡ Nous avons également amélioré Desti-Core pour une expérience de jeu plus fluide.\nMerci de jouer sur Destinéee ! 💕 Nous vous apprécions et nous sommes impatients de voir vos aventures ! 🎉",
+  "date": "27/12/2025",
+  "content": "🎉 Mise à jour de Destinéee ! ✨\n**Mapping :**\n✨ Nouvelle ressource audioconfig\n🗑️ Suppression de ydd, ydr, ymap, puis réajout 🤔\n🔧 Mise à jour de Full_Prison_Extended - Delet Prison\n\n**Scripts :**\n✨ Système de zones PVP, PVE et SAFE avec gestion admin (SPY_Zones)\n🔧 Mises à jour de SPY_Zones et Desti-Construct\n\nCes changements visent à améliorer votre expérience de jeu ! ⚡\nMerci de votre fidélité et à bientôt sur Destinéee ! 🙏",
   "color": 5793266,
-  "timestamp": "2025-12-26T19:00:33.448Z"
+  "timestamp": "2025-12-27T19:00:56.586Z"
 }
