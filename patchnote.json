@@ -1,50 +1,9 @@
 {
   "title": "📋 Patch Note - Destinéee",
-  "date": "27/12/2025",
-  "content": "🎉 Mise à jour de Destinéee ! ✨\n**Mapping :**\n✨ Nouvelle ressource audioconfig\n🗑️ Suppression de ydd, ydr, ymap, puis réajout 🤔\n🔧 Mise à jour de Full_Prison_Extended - Delet Prison\n\n**Scripts :**\n✨ Système de zones PVP, PVE et SAFE avec gestion admin (SPY_Zones)\n🔧 Mises à jour de SPY_Zones et Desti-Construct\n\nCes changements visent à améliorer votre expérience de jeu ! ⚡\nMerci de votre fidélité et à bientôt sur Destinéee ! 🙏",
+  "date": "29/12/2025",
+  "content": "🎉 Nouvelle mise à jour pour améliorer votre expérience sur Destinéee ! ✨\n\n**Mapping :**\n🔧 Mise à jour de Full_Prison_Extended pour améliorer l'expérience de jeu\n🔧 Mise à jour de mlo_lod_fix pour améliorer la distance de LOD des MLO custom\n\n**Scripts :**\n🔧 Mise à jour de luxu_admin pour améliorer l'expérience des administrateurs\n🔧 Mise à jour de commandped pour améliorer la fonctionnalité de ped\n\nMerci de jouer sur Destinéee ! 🙏",
   "color": 5793266,
-  "timestamp": "2025-12-27T19:00:56.586Z",
-  "patchNotes": [
-    {
-      "id": "1735498800000",
-      "publishedAt": "2025-12-29T20:00:00.000Z",
-      "date": "lundi 29 décembre 2025",
-      "serverName": "Destinéee",
-      "content": "🎉 Nouvelle mise à jour pour améliorer votre expérience sur Destinéee ! ✨\n\n**Mapping :**\n🔧 Mise à jour de Full_Prison_Extended pour améliorer l'expérience de jeu\n🔧 Mise à jour de mlo_lod_fix pour améliorer la distance de LOD des MLO custom\n\n**Scripts :**\n🔧 Mise à jour de luxu_admin pour améliorer l'expérience des administrateurs\n🔧 Mise à jour de commandped pour améliorer la fonctionnalité de ped\n\nMerci de jouer sur Destinéee ! 🙏",
-      "changes": [
-        {
-          "type": "modify",
-          "category": "mapping",
-          "name": "Full_Prison_Extended",
-          "description": "Amélioration de l'expérience de jeu"
-        },
-        {
-          "type": "modify",
-          "category": "mapping",
-          "name": "mlo_lod_fix",
-          "description": "Amélioration de la distance de LOD des MLO custom"
-        },
-        {
-          "type": "modify",
-          "category": "script",
-          "name": "luxu_admin",
-          "description": "Amélioration de l'expérience des administrateurs"
-        },
-        {
-          "type": "modify",
-          "category": "script",
-          "name": "commandped",
-          "description": "Amélioration de la fonctionnalité de ped"
-        }
-      ],
-      "stats": {
-        "add": 3,
-        "modify": 17,
-        "remove": 3
-      }
-    }
-  ],
-  "lastUpdate": "2025-12-29T20:00:00.000Z",
+  "timestamp": "2025-12-29T19:00:56.586Z",
   "serverName": "Destinéee",
   "totalPatchNotes": 1
 }
