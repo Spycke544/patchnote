@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
-  "date": "03/01/2026",
-  "content": "💥 Une nouvelle mise à jour arrive sur Destinée ! 💥\n✨ Le système de vêtements en items - Style DayZ est désormais disponible avec la ressource desti-clothing ! \n🔧 Les ressources client, data, nui, server, shared et sql ont été ajoutées pour améliorer l'expérience de jeu.\n🔧 Le script Desti-StarterPack et SPY_Trader ont été mis à jour pour vous offrir plus de possibilités.\n🔧 L'inventaire ox_inventory a également été mis à jour pour une meilleure gestion de vos items.\n🔧 Le deathscreen uniq-deathscreen a également été amélioré pour une expérience plus immersive.\n🗑️ Certaines ressources non essentielles ont été supprimées pour alléger le serveur.\n⚡ Nous vous remercions de votre fidélité et de votre patience ! Nous sommes fiers de vous offrir une expérience de jeu toujours plus riche et immersive. 💕",
+  "date": "04/01/2026",
+  "content": "🔥 Mise à jour de Destinée ! 🔥\n✨ Un nouveau script minimap (par ShadowWakler) est ajouté pour améliorer votre navigation ! \n🔧 Le système de vêtements en items (desti-clothing) a été mis à jour pour un style DayZ plus réaliste.\n🔧 L'inventaire (ox_inventory) a également été mis à jour pour une meilleure gestion des items.\n🐛 Des corrections de bugs ont été effectuées pour améliorer votre expérience de jeu.\n🗑️ Certaines ressources ont été supprimées pour optimiser le serveur.\n⚡ Le système de sac (Desti-SacSystem) a été mis à jour pour plus de réalisme.\n\nMerci de jouer sur Destinée ! Nous sommes fiers de vous offrir une expérience de jeu toujours plus immersive. 🙏",
   "color": 5793266,
-  "timestamp": "2026-01-03T19:00:56.047Z",
-  "stats": "✨ 16 ajout(s) | 🔧 22 modif(s) | 🗑️ 7 suppression(s)"
+  "timestamp": "2026-01-04T19:00:15.111Z",
+  "stats": "✨ 8 ajout(s) | 🔧 44 modif(s) | 🗑️ 6 suppression(s)"
 }
