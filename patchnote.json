@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
-  "date": "06/01/2026",
-  "content": "🌟 Nouveautés sur le serveur Destinée ! ✨\nNous avons ajouté de nouvelles ressources de mapping, notamment le Lac_Sandy_ShadowWalker 🏞️, stream, custom_dune_col, custom_dune_ydr, custom_dune_ymap, custom_dune_ytd et custom_dune_ytyp 🗺️.\n🔧 Les systèmes de zones PVP, PVE et SAFE ont été mis à jour avec de nouvelles fonctionnalités pour améliorer votre expérience de jeu 🎮.\n🔧 Le système de vêtements en items, desti-clothing, a également été mis à jour pour vous offrir plus de choix et de personnalisation 🛍️.\n🗑️ Certaines ressources ont été supprimées pour améliorer les performances et la stabilité du serveur ⚡.\nMerci de jouer sur Destinée ! 🙏 Nous sommes heureux de vous offrir ces mises à jour pour améliorer votre expérience de jeu 🎉.",
+  "date": "07/01/2026",
+  "content": "🎉 Nouvelle mise à jour pour améliorer votre expérience sur Destinée ! ✨\n**Nouveaux contenus** :\n✨ Script de montre pour afficher l'heure (par Spycke) vcerulean\n✨ Nouvelles ressources : client, html, server\n\n**Améliorations** :\n🔧 Mise à jour de Desti-Construct pour une meilleure expérience de construction\n🔧 Mise à jour de Desti-NuiLootSystem pour un système de butin plus efficace\n🔧 Mise à jour de hrs_loot pour des cibles plus précises\n🔧 Mise à jour de desti-clothing pour un système de vêtements plus réaliste\n⚡ Mise à jour de es_extended pour améliorer les fonctionnalités de base\n\nMerci de continuer à jouer sur Destinée ! 🙏 Nous sommes fiers de vous offrir une expérience de jeu toujours plus riche et immersive. 😊",
   "color": 5793266,
-  "timestamp": "2026-01-06T19:00:04.698Z",
-  "stats": "✨ 32 ajout(s) | 🔧 12 modif(s) | 🗑️ 25 suppression(s)"
+  "timestamp": "2026-01-07T19:00:40.568Z",
+  "stats": "✨ 4 ajout(s) | 🔧 14 modif(s)"
 }
