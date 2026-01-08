@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
-  "date": "07/01/2026",
-  "content": "🎉 Nouvelle mise à jour pour améliorer votre expérience sur Destinée ! ✨\n**Nouveaux contenus** :\n✨ Script de montre pour afficher l'heure (par Spycke) vcerulean\n✨ Nouvelles ressources : client, html, server\n\n**Améliorations** :\n🔧 Mise à jour de Desti-Construct pour une meilleure expérience de construction\n🔧 Mise à jour de Desti-NuiLootSystem pour un système de butin plus efficace\n🔧 Mise à jour de hrs_loot pour des cibles plus précises\n🔧 Mise à jour de desti-clothing pour un système de vêtements plus réaliste\n⚡ Mise à jour de es_extended pour améliorer les fonctionnalités de base\n\nMerci de continuer à jouer sur Destinée ! 🙏 Nous sommes fiers de vous offrir une expérience de jeu toujours plus riche et immersive. 😊",
+  "date": "08/01/2026",
+  "content": "🌟 Une nouvelle mise à jour est arrivée sur Destinée ! 🔥\n✨ Nous ajoutons de nouvelles ressources pour améliorer votre expérience de jeu : rc-interactions, bridge, client, server, shared, web, components, contexts, dist, assets et utils.\n🔧 Les systèmes de banque (SPY_Bank), de petites annonces (SPY_Trader) et d'inventaire (ox_inventory) ont été mis à jour pour une expérience plus fluide.\n🔧 Le système de vêtements (desti-clothing) a également été amélioré pour plus de réalisme.\n🔧 Les HUD de joueur (esx_piphud) et les interactions (rc-interactions) ont été optimisés pour une meilleure immersion.\n🐛 Des corrections de bugs mineurs ont été effectuées pour une expérience de jeu plus stable.\n\nMerci de jouer sur Destinée ! 🙏 Nous sommes fiers de vous offrir une expérience de jeu unique et passionnante. Nous vous attendons en jeu ! 👋",
   "color": 5793266,
-  "timestamp": "2026-01-07T19:00:40.568Z",
-  "stats": "✨ 4 ajout(s) | 🔧 14 modif(s)"
+  "timestamp": "2026-01-08T19:00:02.815Z",
+  "stats": "✨ 11 ajout(s) | 🔧 22 modif(s)"
 }
