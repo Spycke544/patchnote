@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
-  "date": "09/01/2026",
-  "content": "🔥 Mise à jour de Destinée ! 🔥\nNous avons apporté des modifications pour améliorer votre expérience de jeu. Voici les changements clés :\n🔧 **Mises à jour de scripts** : rc-interactions a été mis à jour pour une meilleure interaction dans le jeu.\n🔧 **Mise à jour de jobs** : esx_piphud a été mis à jour pour améliorer l'expérience de jeu avec un HUD joueur style Pip-Boy pour ESX, incluant ox_inventory et Vehicle HUD.\nMerci de votre fidélité et de votre patience ! Nous sommes ravis de vous offrir une meilleure expérience de jeu. 🙏",
+  "date": "10/01/2026",
+  "content": "🔥 Nouvelle mise à jour sur le serveur Destinée ! ✨\nNous ajoutons de nouveaux contenus jouables :\n✨ Nouvelles ressources de mapping : deletwater, Sh_Mapping, stream, ybn, ycd, ydd, ydr, yft, ymap_deux, ymap_un, ymf, ytd, ytd, ytyp\n✨ Nouvelles ressources de job : items, shared\n\nNous améliorons également certaines fonctionnalités :\n🔧 Mise à jour de rc-interactions, SPY_Starter, Menue Contextuel, SPY_Zones, ox_inventory, esx_piphud\n🐛 Correction de bugs mineurs\n\nEt retirons certaines ressources obsolètes :\n🗑️ Suppression de nombreuses ressources de mapping non utilisées\n\nMerci de votre fidélité et de votre patience ! 👍 Nous sommes heureux de vous offrir une expérience de jeu améliorée sur Destinée ! 💥",
   "color": 5793266,
-  "timestamp": "2026-01-09T19:00:34.608Z",
-  "stats": "🔧 11 modif(s)"
+  "timestamp": "2026-01-10T19:00:37.158Z",
+  "stats": "✨ 15 ajout(s) | 🔧 23 modif(s) | 🗑️ 240 suppression(s)"
 }
