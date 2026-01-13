@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
   "date": "13/01/2026",
-  "content": "✨ Nouvelles fonctionnalités ! \n- Un endpoint JSON en lecture seule pour les positions des joueurs a été ajouté pour le panneau LuxuAdminWeb.\n\n🗑️ Suppressions :\n- La ressource \"luxu_positions\" a été supprimée, mais cela n'affecte pas directement votre expérience de jeu.\n\nNous nous concentrons sur les améliorations qui impactent votre aventure sur Destinée ! Merci de jouer avec nous ! 🙏",
+  "content": "🔧 Mise à jour du système d'interactions ! Le script rc-interactions a été mis à jour pour améliorer votre expérience de jeu. Cette mise à jour permet de nouveaux types d'interactions et de meilleures fonctionnalités de gameplay. \n\nMalheureusement, cette mise à jour ne contient pas de nouveaux contenus jouables, de corrections de bugs notables ou de changements de règles importants. \n\nMerci de votre fidélité et de votre participation active à notre serveur \"Destinée\" ! 🙏",
   "color": 5793266,
-  "timestamp": "2026-01-13T19:00:33.844Z",
-  "stats": "✨ 1 ajout(s) | 🗑️ 1 suppression(s)"
+  "timestamp": "2026-01-13T19:00:40.089Z",
+  "stats": "🔧 4 modif(s)"
 }
