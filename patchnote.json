@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
   "date": "15/01/2026",
-  "content": "🚀 Nouveau contenu en approche sur Destinée ! ✨\nNous ajoutons de nouvelles ressources pour améliorer votre expérience de jeu :\n✨ Panel_web, config, server, core, endpoints et utils pour des fonctionnalités futures.\n\nCes ajouts ouvrent la voie à de nouvelles possibilités de gameplay ! 🔧\nRestez à l'écoute pour découvrir ce que ces mises à jour vont apporter.\n\nMerci de votre fidélité et à bientôt sur Destinée ! 💕",
+  "content": "🔥 Nouvelle mise à jour sur le serveur Destinée ! 🔥\n✨ Les développeurs ont travaillé dur pour améliorer votre expérience de jeu.\n🔧 Mises à jour de scripts :\n  - ox_inventory : Slot-based inventory avec prise en charge des métadonnées d'items\n  - SPY_Garage : Système de garage complet avec NUI post-apo\n  - Desti-Construct : Mise à jour pour une expérience de construction plus fluide\n  - SPY_AdminTrash : Poubelle Admin + Joueur pour gérer les items\n\n🐛 Les corrections de bugs et les améliorations sont là pour vous offrir une expérience de jeu plus stable et plus divertissante.\nMerci de votre fidélité et de votre patience ! 💕",
   "color": 5793266,
-  "timestamp": "2026-01-15T19:00:05.742Z",
-  "stats": "✨ 6 ajout(s)"
+  "timestamp": "2026-01-15T19:00:35.188Z",
+  "stats": "🔧 7 modif(s)"
 }
