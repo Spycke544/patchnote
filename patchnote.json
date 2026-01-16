@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
   "date": "16/01/2026",
-  "content": "🌟 Nouveautés sur Destinée ! ✨\n- Nouvelles ressources ajoutées : [John], client, server et ui\n- Commande /godmod pour administrateurs (ESX) ajoutée et mise à jour 🔄\n- Mise à jour de la poubelle Admin + Joueur pour jeter des items 🔧\n\nCes changements améliorent votre expérience de jeu ! ⚡\nMerci de jouer sur Destinée ! 🙏",
+  "content": "💥 Nouvelle mise à jour pour améliorer votre expérience sur Destinée ! ✨\nNous avons ajouté une nouvelle commande `/godmod` pour les administrateurs (ESX) et de nouvelles ressources pour améliorer votre jeu. \n🔧 Le système de zones PNJ a été mis à jour pour une meilleure gestion. \n🗑️ Nous avons supprimé certaines ressources inutiles pour alléger le serveur. \n🐛 Des corrections de bugs ont été effectuées pour un jeu plus fluide. \n⚡ Les mappings ont été améliorés avec de nouveaux assets et des zones ajoutées. \nMerci de jouer sur Destinée ! ❤️",
   "color": 5793266,
-  "timestamp": "2026-01-16T19:00:12.890Z",
-  "stats": "✨ 5 ajout(s) | 🔧 5 modif(s)"
+  "timestamp": "2026-01-16T19:00:24.948Z",
+  "stats": "✨ 29 ajout(s) | 🔧 53 modif(s) | 🗑️ 259 suppression(s)"
 }
