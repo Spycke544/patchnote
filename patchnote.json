@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
-  "date": "16/01/2026",
-  "content": "💥 Nouvelle mise à jour pour améliorer votre expérience sur Destinée ! ✨\nNous avons ajouté une nouvelle commande `/godmod` pour les administrateurs (ESX) et de nouvelles ressources pour améliorer votre jeu. \n🔧 Le système de zones PNJ a été mis à jour pour une meilleure gestion. \n🗑️ Nous avons supprimé certaines ressources inutiles pour alléger le serveur. \n🐛 Des corrections de bugs ont été effectuées pour un jeu plus fluide. \n⚡ Les mappings ont été améliorés avec de nouveaux assets et des zones ajoutées. \nMerci de jouer sur Destinée ! ❤️",
+  "date": "17/01/2026",
+  "content": "🌟 Nouvelles mises à jour sur le serveur Destinée ! ✨\nNous avons apporté plusieurs modifications pour améliorer votre expérience de jeu :\n🔧 **Inventaire** : Mise à jour de ox_inventory pour un meilleur gestion des items\n���� **Carburant** : Amélioration de SPY_Fuel pour un système de carburant plus complet\n🔧 **Zombies** : Mise à jour de hrs_zombies_V2 pour une expérience plus immersive\n🔧 **Crafting** : Amélioration de Desti-NuiCrafting pour un crafting plus intuitif\n🔧 **Poubelle** : Mise à jour de SPY_AdminTrash pour un système de poubelle plus pratique\n\nMerci de votre fidélité et de votre patience ! Nous sommes fiers de vous offrir une expérience de jeu toujours plus riche et immersive. 🙏",
   "color": 5793266,
-  "timestamp": "2026-01-16T19:00:24.948Z",
-  "stats": "✨ 29 ajout(s) | 🔧 53 modif(s) | 🗑️ 259 suppression(s)"
+  "timestamp": "2026-01-17T19:00:38.443Z",
+  "stats": "🔧 9 modif(s)"
 }
