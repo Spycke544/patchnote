@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
-  "date": "17/01/2026",
-  "content": "🌟 Nouvelles mises à jour sur le serveur Destinée ! ✨\nNous avons apporté plusieurs modifications pour améliorer votre expérience de jeu :\n🔧 **Inventaire** : Mise à jour de ox_inventory pour un meilleur gestion des items\n���� **Carburant** : Amélioration de SPY_Fuel pour un système de carburant plus complet\n🔧 **Zombies** : Mise à jour de hrs_zombies_V2 pour une expérience plus immersive\n🔧 **Crafting** : Amélioration de Desti-NuiCrafting pour un crafting plus intuitif\n🔧 **Poubelle** : Mise à jour de SPY_AdminTrash pour un système de poubelle plus pratique\n\nMerci de votre fidélité et de votre patience ! Nous sommes fiers de vous offrir une expérience de jeu toujours plus riche et immersive. 🙏",
+  "date": "18/01/2026",
+  "content": "🔥 Mise à jour de Destinée ! 🔥\n✨ Les joueurs peuvent maintenant profiter d'un système de carburant complet avec SPY_Fuel, incluant le raffinage, les pompes et la consommation ! 🔧\n✨ Une nouvelle fonctionnalité de poubelle a été ajoutée avec SPY_AdminTrash, permettant aux joueurs de jeter des items ! \n🐛 Les bugs liés à ces fonctionnalités ont été corrigés pour une expérience de jeu plus fluide.\nMerci de jouer sur Destinée ! 💕",
   "color": 5793266,
-  "timestamp": "2026-01-17T19:00:38.443Z",
-  "stats": "🔧 9 modif(s)"
+  "timestamp": "2026-01-18T19:00:24.432Z",
+  "stats": "🔧 6 modif(s)"
 }
