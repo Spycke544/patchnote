@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
-  "date": "23/01/2026",
-  "content": "🎉 Découvrez les dernières mises à jour sur Destinée ! ✨\n**Nouveaux contenus** :\n✨ [Zombie_shadow] : nouvelle ressource pour une expérience de survival encore plus immersive\n✨ Nouveaux éléments de mapping, dont des ruches et des pompes à carburant, pour enrichir votre environnement\n**Mises à jour de fonctionnalités** :\n🔧 SPY_Zones : amélioration du système de zones PVP, PVE et SAFE pour une expérience plus fluide\n🔧 SPY_Miel : mise à jour du système d'élevage d'abeilles pour plus de réalisme\n🔧 ox_inventory : amélioration de l'inventaire pour un gameplay plus pratique\n**Corrections et améliorations** :\n🐛 Corrections de bugs pour une expérience de jeu plus stable\n⚡ Améliorations diverses pour un gameplay plus fluide\n\nMerci de votre fidélité et de votre participation active à la communauté de Destinée ! 🙏",
+  "date": "24/01/2026",
+  "content": "💥 Nouveaux contenus pour améliorer votre expérience sur Destinée ! \n✨ Nous ajoutons de nouvelles ressources : sh_spider_a et stream pour enrichir votre aventure.\n🔧 Le script hrs_zombies_V2 a été mis à jour pour une expérience plus immersive.\n✨ De nouvelles armes arrivent : SPY_Weapon, mais attention, certaines ont été supprimées (SPY_Weapon, client, server, web, css, js) pour un équilibrage optimal.\n🔧 Le système de réparation d'armes a été amélioré pour plus de fluidité.\n🗑️ Certaines ressources ont été supprimées (Giant_Spider, stream) pour une expérience plus cohérente.\nMerci de votre fidélité et de votre patience, nous sommes là pour vous offrir la meilleure expérience possible sur Destinée ! 💕",
   "color": 5793266,
-  "timestamp": "2026-01-23T19:00:24.942Z",
-  "stats": "✨ 65 ajout(s) | 🔧 26 modif(s) | 🗑️ 52 suppression(s)"
+  "timestamp": "2026-01-24T19:00:08.033Z",
+  "stats": "✨ 14 ajout(s) | 🔧 10 modif(s) | 🗑️ 8 suppression(s)"
 }
