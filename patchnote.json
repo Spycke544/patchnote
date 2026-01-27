@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
-  "date": "24/01/2026",
-  "content": "💥 Nouveaux contenus pour améliorer votre expérience sur Destinée ! \n✨ Nous ajoutons de nouvelles ressources : sh_spider_a et stream pour enrichir votre aventure.\n🔧 Le script hrs_zombies_V2 a été mis à jour pour une expérience plus immersive.\n✨ De nouvelles armes arrivent : SPY_Weapon, mais attention, certaines ont été supprimées (SPY_Weapon, client, server, web, css, js) pour un équilibrage optimal.\n🔧 Le système de réparation d'armes a été amélioré pour plus de fluidité.\n🗑️ Certaines ressources ont été supprimées (Giant_Spider, stream) pour une expérience plus cohérente.\nMerci de votre fidélité et de votre patience, nous sommes là pour vous offrir la meilleure expérience possible sur Destinée ! 💕",
+  "date": "27/01/2026",
+  "content": "🎉 Nouvelles mises à jour sur Destinée ! ✨\n**Nouveaux contenus** :\n✨ Desti-InfectedUV, une nouvelle ressource pour une expérience de jeu améliorée\n✨ [Zombie_shadow], une nouvelle ressource pour affronter de nouveaux défis\n✨ sounds, une nouvelle ressource pour une ambiance sonore améliorée\n✨ Core_Shadow_Zombie_Addon, une nouvelle ressource pour une expérience de jeu plus immersive\n**Améliorations de gameplay** :\n🔧 hrs_loot, mise à jour pour des cibles plus précises\n🔧 hrs_zombies_V2, mise à jour pour une expérience de jeu plus intense\n🔧 faction_zone, mise à jour pour un système de zones PNJ plus avancé\n**Retraits** :\n🗑️ addons et inventaire, ressources supprimées pour une expérience de jeu plus fluide\nMerci de jouer sur Destinée ! 🙏 Nous travaillons sans relâche pour améliorer votre expérience de jeu.",
   "color": 5793266,
-  "timestamp": "2026-01-24T19:00:08.033Z",
-  "stats": "✨ 14 ajout(s) | 🔧 10 modif(s) | 🗑️ 8 suppression(s)"
+  "timestamp": "2026-01-27T19:00:02.559Z",
+  "stats": "✨ 7 ajout(s) | 🔧 18 modif(s) | 🗑️ 3 suppression(s)"
 }
