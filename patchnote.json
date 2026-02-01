@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
-  "date": "27/01/2026",
-  "content": "🎉 Nouvelles mises à jour sur Destinée ! ✨\n**Nouveaux contenus** :\n✨ Desti-InfectedUV, une nouvelle ressource pour une expérience de jeu améliorée\n✨ [Zombie_shadow], une nouvelle ressource pour affronter de nouveaux défis\n✨ sounds, une nouvelle ressource pour une ambiance sonore améliorée\n✨ Core_Shadow_Zombie_Addon, une nouvelle ressource pour une expérience de jeu plus immersive\n**Améliorations de gameplay** :\n🔧 hrs_loot, mise à jour pour des cibles plus précises\n🔧 hrs_zombies_V2, mise à jour pour une expérience de jeu plus intense\n🔧 faction_zone, mise à jour pour un système de zones PNJ plus avancé\n**Retraits** :\n🗑️ addons et inventaire, ressources supprimées pour une expérience de jeu plus fluide\nMerci de jouer sur Destinée ! 🙏 Nous travaillons sans relâche pour améliorer votre expérience de jeu.",
+  "date": "01/02/2026",
+  "content": "🔥 Une nouvelle mise à jour est arrivée sur Destinée ! 🔥\n✨ De nouvelles ressources ont été ajoutées : bridge, client, server, shared, modules, utils, config, anticheat, commands, custom_functions, logging, sounds, locales, sql, logs et coords_history.\n🐛 Les bugs liés à luxu_admin ont été corrigés.\n🗑️ Certaines ressources ont été supprimées pour améliorer l'expérience de jeu.\n⚡ Les mises à jour de luxu_admin et deletwater ont été effectuées pour un meilleur équilibre de gameplay.\nMerci de jouer sur Destinée ! 🙏",
   "color": 5793266,
-  "timestamp": "2026-01-27T19:00:02.559Z",
-  "stats": "✨ 7 ajout(s) | 🔧 18 modif(s) | 🗑️ 3 suppression(s)"
+  "timestamp": "2026-02-01T19:00:03.044Z",
+  "stats": "✨ 22 ajout(s) | 🔧 267 modif(s) | 🗑️ 18 suppression(s)"
 }
