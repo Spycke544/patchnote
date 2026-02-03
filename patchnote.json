@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
-  "date": "02/02/2026",
-  "content": "🌟 Nous sommes ravis de vous présenter les dernières mises à jour de Destinée ! ✨\n**Nouveaux contenus**:\n✨ Système de coffres posables par les joueurs (par Spycke) \n✨ Système de réparation de vêtements via machine à coudre (par Spycke) \n✨ Props Couture (par Shadow Walker) \n**Améliorations**:\n⚡ Mise à jour de ox_inventory pour un inventaire plus fluide\n**Conclusion**:\nMerci de jouer sur Destinée ! Nous sommes à l'écoute de vos retours pour continuer à améliorer votre expérience de jeu. 🙏",
+  "date": "03/02/2026",
+  "content": "✨ Nouveaux contenus : \n- Système de coffres sécurisés avec digicode (SPY_Coffre)\n- Système de réparation de vêtements via machine à coudre (SPY_Sewing)\n\n🔧 Mises à jour :\n- Mise à jour de ox_inventory pour améliorer l'inventaire\n- Mises à jour de luxu_admin pour améliorer l'expérience admin\n\n🐛 Corrections de bugs :\n- Aucun bug connu signalé par les joueurs n'a été corrigé dans cette mise à jour\n\nNous vous remercions de votre fidélité et de votre patience ! 💕",
   "color": 5793266,
-  "timestamp": "2026-02-02T19:00:35.112Z",
-  "stats": "✨ 9 ajout(s) | 🔧 295 modif(s) | 🗑️ 1 suppression(s)"
+  "timestamp": "2026-02-03T19:00:36.905Z",
+  "stats": "✨ 13 ajout(s) | 🔧 294 modif(s)"
 }
