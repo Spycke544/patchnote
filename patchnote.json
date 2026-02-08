@@ -1,8 +1,8 @@
 {
   "title": "📋 Patch Note - Destinée",
   "date": "08/02/2026",
-  "content": "🔥 Mise à jour sur Destinée ! 🔥\n✨ Un nouveau système de clan a été ajouté : Desti-NuiClanSystem 🤝\n✨ Le système de butin a été mis à jour : Desti-NuiLootSystem 🎁\n🔧 Des corrections de bugs ont été effectuées pour améliorer votre expérience de jeu 🐛\nMerci de jouer sur Destinée ! 💕",
+  "content": "🔥 Nouvelle mise à jour sur le serveur Destinée ! ✨\nNous ajoutons de nouvelles ressources pour améliorer votre expérience de jeu :\n✨ JM-Groupe : système de groupe avancé avec sous-groupes, HUD, balises et suivi\n✨ Godmod (supprimé par la suite)\n🗑️ Nous supprimons également certaines ressources pour optimiser le serveur :\n🗑️ Godmod, ui, client, html, server\n\n🔧 Le système JM-Groupe a été mis à jour pour vous offrir une expérience de groupe encore plus immersive !\n\n⚡ Nous nous efforçons de vous apporter le meilleur gameplay possible. Merci de votre fidélité ! 👍",
   "color": 5793266,
-  "timestamp": "2026-02-08T19:00:31.484Z",
-  "stats": "✨ 1 ajout(s) | 🔧 290 modif(s)"
+  "timestamp": "2026-02-08T19:00:49.460Z",
+  "stats": "✨ 6 ajout(s) | 🔧 30 modif(s) | 🗑️ 5 suppression(s)"
 }
